@@ -12,6 +12,9 @@ It's a simple fees calculator using laravel 11 API
        - Services
        - Thresholds
 
+    Thresholds have min_amount and max_amount which determines transaction limits to set suitable fee. 
+
+
 
 # Install The Environment
 - git clone https://github.com/ScaleAcc/Backend.git

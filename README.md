@@ -2,15 +2,15 @@
 It's a simple fees calculator using laravel 11 API
 
 # How to use?
-We have a basic api route api/feePercentages you will pass 3 attributes 
-    1- fee_preset_id
-    2- service_id
-    3- threshold_id
-
-Also we have all CRUD operations for 
-    FeePresets
-    Services
-    Thresholds
+    We have a basic api route api/feePercentages you will pass 3 attributes 
+        - fee_preset_id
+        - service_id
+        - threshold_id
+    
+    Also we have all CRUD operations for 
+       - FeePresets
+       - Services
+       - Thresholds
 
 
 # Install The Environment
